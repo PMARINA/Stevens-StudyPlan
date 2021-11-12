@@ -1,5 +1,7 @@
 # Stevens-StudyPlan
 
+**Important**: As of Fall 2021, Stevens has removed student access to the Server that outputted plaintext transcripts (finally). This project is no longer useful.
+
 Generate a mostly-filled study plan from your Unofficial Transcript. Note that this is only necessary for filling out [these forms](https://www.stevens.edu/directory/office-registrar/study-planac) (see bottom of page, last expanding button). This has nothing to do with workday.
 
 ## How to Use
